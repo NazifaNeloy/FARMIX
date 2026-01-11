@@ -146,5 +146,5 @@ Farmix is a **mobile-first, AI-powered platform** designed to reduce post-harves
 
 ---
 
-Website: [[www.farmix.com](http://www.farmix.com)
-](https://farmix-59170.web.app/)](https://farmix-59170.web.app/)
+Website: https://farmix-59170.web.app/
+
