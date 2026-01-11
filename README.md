@@ -1,4 +1,4 @@
-[# 🌾 Farmix - AI-Powered Agricultural Platform
+[# 🌾 Farmix - AI-Powered Agricultural Platform -https://farmix-59170.web.app/
 
 **Tagline:** Better Health. Higher Yield.  
 **Mission:** Democratize access to cold-chain technology and market data, reducing the 4.5 million tonnes of annual food waste in Bangladesh.  
