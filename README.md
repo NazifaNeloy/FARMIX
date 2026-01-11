@@ -13,10 +13,6 @@ Farmix is a **mobile-first, AI-powered platform** designed to reduce post-harves
 - Predictive analytics  
 - Direct market access  
 
-![Farmix Overview](./assets/farmix_overview.png) <!-- Replace with your image/GIF -->
-
----
-
 ## ⚡ Key Features (The "Wow" Factors)
 
 <details>
@@ -32,7 +28,6 @@ Farmix is a **mobile-first, AI-powered platform** designed to reduce post-harves
     - `fresh.jpg` → Healthy Crop (Safe)  
   - **Fallback:** Defaults to "Healthy" if offline or API fails.  
 
-![AI Scanner Demo](./assets/ai_scanner_demo.gif) <!-- Replace with your GIF -->
 </details>
 
 <details>
@@ -46,7 +41,6 @@ Farmix is a **mobile-first, AI-powered platform** designed to reduce post-harves
     - Rain > 70% → "Cut paddy today or cover it." (Red Alert)  
     - Temp > 35°C → "Irrigate in the afternoon." (Orange Alert)  
 
-![Weather Dashboard](./assets/weather_dashboard.png) <!-- Replace with your image -->
 </details>
 
 <details>
@@ -56,7 +50,6 @@ Farmix is a **mobile-first, AI-powered platform** designed to reduce post-harves
 - **Tech:** Custom `decisionEngine.js`  
 - **Demo Trigger:** Naming a batch "Demo Potato" forces a critical alert.  
 
-![Smart Alert](./assets/smart_alert.gif) <!-- Replace with your GIF -->
 </details>
 
 <details>
@@ -69,7 +62,6 @@ Farmix is a **mobile-first, AI-powered platform** designed to reduce post-harves
   - Green Circles → Safe zones  
   - Privacy: Shows Crop Type & Risk Level, hides farmer names  
 
-![Community Map](./assets/community_map.png) <!-- Replace with your image -->
 </details>
 
 <details>
@@ -81,7 +73,6 @@ Farmix is a **mobile-first, AI-powered platform** designed to reduce post-harves
   - Keywords: "আবহাওয়া", "ধান", "কবে কাটব", "গুদাম"  
   - Accessibility: Helps illiterate farmers interact naturally  
 
-![Agri-Bot Demo](./assets/agri_bot.gif) <!-- Replace with your GIF -->
 </details>
 
 <details>
@@ -95,7 +86,6 @@ Farmix is a **mobile-first, AI-powered platform** designed to reduce post-harves
   - -10 hours if temp > 30°C  
   - **"Drying Trap":** Rain predicted → ETCL drops by 50%  
 
-![ETCL Demo](./assets/etcl_demo.png) <!-- Replace with your image -->
 </details>
 
 ---
@@ -156,13 +146,5 @@ Farmix is a **mobile-first, AI-powered platform** designed to reduce post-harves
 
 ---
 
-## 📄 License
-[MIT License](LICENSE)
-
----
-
-## 📞 Contact
-Farmix Team – *Bangladesh*  
-Email: info@farmix.com  
-Website: [www.farmix.com](http://www.farmix.com)
-](https://farmix-59170.web.app/)
+Website: [[www.farmix.com](http://www.farmix.com)
+](https://farmix-59170.web.app/)](https://farmix-59170.web.app/)
